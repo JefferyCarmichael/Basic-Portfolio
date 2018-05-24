@@ -1,0 +1,22 @@
+#name{
+            color:white;
+            background-color: #4aaaa5;
+            width: 15%;
+            text-align: center;
+            padding: 20px;
+            margin-left: 60px;
+            float: left;
+            }
+
+
+
+#item1,#item2,#item3{
+    background-color: blue;
+    width: 10%;
+    padding: 20px;
+
+
+    }
+#item1{float: right;}
+#item2{float: right;}
+#item3{float: right;}
